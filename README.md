@@ -46,4 +46,5 @@ Experiment with game mechanics to enhance the player experience.
 
 # Notes
 This script assumes a local Python environment. And try to clone VsCode to your repo:
-![image](https://github.com/GuirassyFode/galactic-mining-adventure/assets/25976326/3fb24530-ef2e-4ad1-af07-5c6ecadff447)
+![image](https://github.com/GuirassyFode/galactic-mining-adventure/assets/25976326/f36b4c38-0974-4864-aa52-648485b26827)
+
